@@ -38,7 +38,7 @@ Currently building **Shuttle**, a cloud-based AI IDE designed for the next gener
 ## 🌐 Connect
 
 [![X](https://img.shields.io/badge/X-0B0B0F?style=for-the-badge&logo=x&logoColor=F0F0F5)](https://x.com/BuildStarlight)
-[![Instagram](https://img.shields.io/badge/Instagram-0B0B0F.svg?style=for-the-badge&logo=Instagram&logoColor=0B0B0F)](https://www.instagram.com/buildstarlight)
+[![Instagram](https://img.shields.io/badge/Instagram-0B0B0F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/buildstarlight)
 
 
 ---
