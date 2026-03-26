@@ -10,7 +10,7 @@ Currently building **Shuttle**, a cloud-based AI IDE designed for the next gener
 
 **Starlight** — An AI tools company focused on precision, performance, and developer experience.
 
-**Shuttle** — A cloud-based AI IDE with Git support, built specifically for students and junior developers who are learning to code. Not just autocomplete — an AI that actually teaches.
+**Shuttle** — An AI assistant for students and junior developers. Debug, generate, and learn — with explanations baked into every response. Not just answers. Actual understanding.
 
 ---
 
@@ -26,11 +26,11 @@ Currently building **Shuttle**, a cloud-based AI IDE designed for the next gener
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matty&show_icons=true&theme=dark&bg_color=0B0B0F&title_color=7B5CF0&icon_color=7B5CF0&text_color=F0F0F5&border_color=2A2A35&hide_border=false" alt="Matty's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vamp_matty&show_icons=true&theme=dark&bg_color=0B0B0F&title_color=7B5CF0&icon_color=7B5CF0&text_color=F0F0F5&border_color=2A2A35&hide_border=false" alt="Matty's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matty&layout=compact&theme=dark&bg_color=0B0B0F&title_color=7B5CF0&text_color=F0F0F5&border_color=2A2A35&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamp_matty&layout=compact&theme=dark&bg_color=0B0B0F&title_color=7B5CF0&text_color=F0F0F5&border_color=2A2A35&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
