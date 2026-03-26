@@ -1,4 +1,4 @@
-# Hey, I'm Matty 👋
+# Hey, I'm Matty 
 
 CEO & Founder at **[Starlight](https://github.com/starlightaihq)** — building focused AI tools for developers and students.
 
@@ -6,7 +6,7 @@ Currently building **Shuttle**, a cloud-based AI IDE designed for the next gener
 
 ---
 
-## 🚀 What I'm Building
+##  What I'm Building
 
 **Starlight** — An AI tools company focused on precision, performance, and developer experience.
 
@@ -37,8 +37,9 @@ Currently building **Shuttle**, a cloud-based AI IDE designed for the next gener
 
 ## 🌐 Connect
 
-[![X](https://img.shields.io/badge/X-0B0B0F?style=for-the-badge&logo=x&logoColor=F0F0F5)](https://x.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=7B5CF0)](https://linkedin.com)
+[![X](https://img.shields.io/badge/X-0B0B0F?style=for-the-badge&logo=x&logoColor=F0F0F5)](https://x.com/BuildStarlight)
+[![Instagram](https://img.shields.io/badge/Instagram-0B0B0F.svg?style=for-the-badge&logo=Instagram&logoColor=0B0B0F)](https://www.instagram.com/buildstarlight)
+
 
 ---
 
@@ -46,4 +47,4 @@ Currently building **Shuttle**, a cloud-based AI IDE designed for the next gener
   <img src="https://komarev.com/ghpvc/?username=Matty&color=7B5CF0&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
-> *Building the tools I wish existed.*
+> *Building the impossible*
