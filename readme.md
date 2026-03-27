@@ -26,11 +26,11 @@ Currently building **Shuttle**, a cloud-based AI IDE designed for the next gener
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matty&show_icons=true&theme=dark&bg_color=0B0B0F&title_color=7B5CF0&icon_color=7B5CF0&text_color=F0F0F5&border_color=2A2A35&hide_border=false" alt="Matty's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vamp-matty&show_icons=true&theme=dark&bg_color=0B0B0F&title_color=7B5CF0&icon_color=7B5CF0&text_color=F0F0F5&border_color=2A2A35&hide_border=false" alt="Matty's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matty&layout=compact&theme=dark&bg_color=0B0B0F&title_color=7B5CF0&text_color=F0F0F5&border_color=2A2A35&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamp-matty&layout=compact&theme=dark&bg_color=0B0B0F&title_color=7B5CF0&text_color=F0F0F5&border_color=2A2A35&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
