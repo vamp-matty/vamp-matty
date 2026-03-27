@@ -8,9 +8,9 @@ Currently building **Shuttle**, a cloud-based AI IDE designed for the next gener
 
 ##  What I'm Building
 
-**Starlight** — An AI tools company focused on precision, performance, and developer experience.
+**Starlight** - An AI tools company focused on precision, performance, and developer experience.
 
-**Shuttle** — An AI assistant for students and junior developers. Debug, generate, and learn — with explanations baked into every response. Not just answers. Actual understanding.
+**Shuttle** - An AI assistant for students and junior developers. Debug, generate, and learn with explanations baked into every response. Not just answers. Actual understanding.
 
 ---
 
