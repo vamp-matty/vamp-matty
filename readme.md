@@ -1,6 +1,6 @@
 # Hey, I'm Matty 
 
-CEO & Founder at **[Starlight](https://github.com/starlightaihq)** — building focused AI tools for developers and students.
+CEO & Co-Founder at **[Starlight](https://github.com/starlightaihq)** — building focused AI tools for developers and students.
 
 Currently building **Shuttle**, a cloud-based AI IDE designed for the next generation of developers.
 
