@@ -26,7 +26,7 @@ Currently building **Shuttle**, a cloud-based AI IDE designed for the next gener
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vamp-matty&show_icons=true&theme=dark" alt="Matty's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=vamp-matty&show_icons=true&theme=dark" alt="Matty's GitHub Stats" />
 </p>
 
 <p align="left">
